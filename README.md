@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
     <meta charset="UTF-8">
-    <title>Uknown error, please try again later</title>
+    Uknown error, please try again later
 </head>
 <body>
     <h1>-170</h1>
