@@ -20,7 +20,7 @@
 function updateClock() {
     const now = new Date();
 
-    const time = now.toLocaleTimeString('uk-USA');
+    const time = now.toLocaleTimeString('uk-UA');
 
     document.getElementById('clock').textContent =
         time;
